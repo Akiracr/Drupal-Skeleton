@@ -1,5 +1,5 @@
-core = "6.x"
-description = "Basado en Tao-skeleton. Tema desarrollado por Manati | http://www.estudiomanati.com"
+core = "7.x"
+description = "Basado en Drupal-Skeleton desarrollado por http://www.estudiomanati.com | Folk desarrollado por Max Méndez http://www.maxmendez.net"
 engine = "phptemplate"
 name = "ManatiBase"
 version = 1.0
