@@ -4,25 +4,25 @@ engine = "phptemplate"
 name = "drupal_skeleton_mmv"
 version = 1.0
 
+regions[sidebar_first] = "Sidebar first"
+regions[sidebar_second] = "Sidebar second"
+regions[content] = "Main Content"
 regions[menu] = "Menu container"
-regions[left] = "Left sidebar"
-regions[right] = "Right sidebar"
 regions[main_slider] = "Main slider"
 regions[over_content] = "Over content"
-regions[content] = "Content"
 regions[under_content] = "Under content"
+regions[footer_firstcolumn] = Footer first column
+regions[footer_secondcolumn] = Footer second column
+regions[footer_thirdcolumn] = Footer third column
+regions[footer_fourthcolumn] = Footer fourth column
 regions[footer] = "Footer"
 regions[social_footer] = "Social menu in footer"
-; scripts[] = "js/tao.js"
 
 stylesheets[screen][] = "css/layout.css"
 stylesheets[screen][] = "css/skeleton.css"
 stylesheets[screen][] = "css/drupal.css"
 stylesheets[screen][] = "css/base.css"
 stylesheets[print][] = "css/base.css"
-
-; stylesheets[print][] = "css/print.css"
-; stylesheets[print][] = "css/reset.css"
 
 stylesheets[all][] = "admin.css"
 stylesheets[all][] = "block.css"
