@@ -1,4 +1,4 @@
-<?php require_once (drupal_get_path('theme','manatibase').'/templates/page-header.tpl.php');?>
+<?php require_once (drupal_get_path('theme','drupal_skeleton_mmv').'/templates/page-header.tpl.php');?>
 
   <div class="container row" ><div class="limiter clearfix">
 
@@ -70,4 +70,4 @@
 
   </div></div>
 
-<?php require_once (drupal_get_path('theme','manatibase').'/templates/page-footer.tpl.php');?>
+<?php require_once (drupal_get_path('theme','drupal_skeleton_mmv').'/templates/page-footer.tpl.php');?>
