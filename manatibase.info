@@ -1,7 +1,7 @@
 core = "7.x"
 description = "Basado en Drupal-Skeleton desarrollado por http://www.estudiomanati.com | Folk desarrollado por Max Méndez http://www.maxmendez.net"
 engine = "phptemplate"
-name = "ManatiBase"
+name = "drupal_skeleton_mmv"
 version = 1.0
 
 regions[menu] = "Menu container"
